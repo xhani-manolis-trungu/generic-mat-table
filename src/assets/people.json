@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "age": "29",
+    "lastname": "Smith"
+  },
+  {
+    "id": 2,
+    "name": "Kevin",
+    "age": "30",
+    "lastname": "Klenson"
+  },
+  {
+    "id": 3,
+    "name": "Mary",
+    "age": "28",
+    "lastname": "Erricsson"
+  },
+  {
+    "id": 4,
+    "name": "Anne",
+    "age": "40",
+    "lastname": "Nokiam"
+  },
+  {
+    "id": 5,
+    "name": "Liam",
+    "age": "35",
+    "lastname": "Ledenam"
+  },
+  {
+    "id": 6,
+    "name": "Stacey",
+    "age": "31",
+    "lastname": "Bohnam"
+  }
+]
